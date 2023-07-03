@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://nehanupur.hashnode.dev/a-beginners-guide-to-dsa-learning-from-one-geek-to-another" title="A Beginner's Guide to DSA: Learning from One Geek to Another"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687815218322/1c608806-fc26-4d10-b3bf-5efd2dff2473.png" alt=" A Beginner's Guide to DSA: Learning from One Geek to Another" width="250px" align="left" /></a>
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="A Beginner's Guide to DSA: Learning from One Geek to Another"><strong>A Beginner's Guide to DSA: Learning from One Geek to Another</strong></a>
-<br/> Hey Readers! Are you ready to take your coding skills to the next level? Data structures and algorithms (DSA) may sound intimidating, but don't worry – they're not as scary as they seem! In fact, learning DSA is essential if you want to build software applications that run efficiently and provide great user experiences...</p> <br/> <br/>
+<br/> Hey Readers! Are you ready to take your coding skills to the next level? Data structures and algorithms (DSA) may sound intimidating, but don't worry – they're not as scary as they seem! In fact, learning DSA is essential if you want to build software applications that run efficiently and provide great user experiences...</p> <br/>
 
 <p align=left> <br>
 
