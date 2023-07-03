@@ -1,4 +1,8 @@
+![GitHub Cover Pic](https://github.com/neha-nupur/neha-nupur/assets/110279038/439c9830-3acc-4192-aade-6fd89ae6f11d)
+
 ### Hi there 👋
+
+
 
 <!--
 **neha-nupur/neha-nupur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
