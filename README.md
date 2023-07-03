@@ -24,7 +24,7 @@
  <p align="left">
 <a href="https://nehanupur.hashnode.dev/a-beginners-guide-to-dsa-learning-from-one-geek-to-another" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687815218322/1c608806-fc26-4d10-b3bf-5efd2dff2473.png" alt=" Everything You Need to Know About HTML: Master the Basics and Become a Pro" width="250px" align="left" /></a>
 <a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><strong>Everything You Need to Know About HTML: Master the Basics and Become a Pro</strong></a>
-<br/> Hey Readers! Are you ready to take your coding skills to the next level? Data structures and algorithms (DSA) may sound intimidating, but don't worry – they're not as scary as they seem! In fact, learning DSA is essential if you want to build software applications...</p> <br/> <br/>
+<br/> Hey Reader, welcome to another blog that is about HTML. In this blog, we will look into not the basics of HTML but we will learn more about the advanced HTML tags, semantics, elements, etc. Whether you are a beginner or an intermediate or a person...</p> <br/> <br/>
 
 <p align=left> <br>
  <hr> 
