@@ -27,8 +27,8 @@
 <p align=left> <br>
 
   <p align="left">
-<a href="https://nehanupur.hashnode.dev/a-beginners-guide-to-dsa-learning-from-one-geek-to-another" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686167716731/28bf4144-c5e5-4c38-99cd-a0037bd6fd21.png" alt=" Navigating the Uncertainties: My Story of Choosing BCA over Engineering" width="250px" align="left" /></a>
-<a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><strong>Navigating the Uncertainties: My Story of Choosing BCA over Engineering</strong></a>
+<a href="https://nehanupur.hashnode.dev/navigating-the-uncertainties-my-story-of-choosing-bca-over-engineering" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686167716731/28bf4144-c5e5-4c38-99cd-a0037bd6fd21.png" alt=" Navigating the Uncertainties: My Story of Choosing BCA over Engineering" width="250px" align="left" /></a>
+<a href="https://nehanupur.hashnode.dev/navigating-the-uncertainties-my-story-of-choosing-bca-over-engineering" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><strong>Navigating the Uncertainties: My Story of Choosing BCA over Engineering</strong></a>
 <br/> Hey Reader, welcome to another blog that is about HTML. In this blog, we will look into not the basics of HTML but we will learn more about the advanced HTML tags, semantics, elements, etc. Whether you are a beginner or an intermediate or a person...</p> <br/>
 
 <p align=left> <br>
