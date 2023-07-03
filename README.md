@@ -11,18 +11,17 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-<!--
+
 ## My Latest Blog Posts 
 
 <p align="left">
-<a href="https://nehanupur.hashnode.dev/a-beginners-guide-to-dsa-learning-from-one-geek-to-another" title="A Beginner's Guide to DSA: Learning from One Geek to Another"><img src="![A Beginner's Guide to DSA Learning from One Geek to Another](https://github.com/neha-nupur/neha-nupur/assets/110279038/6e1be2a7-f27e-4317-951f-84bb734487d3)
-" alt=" A Beginner's Guide to DSA: Learning from One Geek to Another" width="250px" align="left" /></a>
+<a href="https://nehanupur.hashnode.dev/a-beginners-guide-to-dsa-learning-from-one-geek-to-another" title="A Beginner's Guide to DSA: Learning from One Geek to Another"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687815218322/1c608806-fc26-4d10-b3bf-5efd2dff2473.png" alt=" A Beginner's Guide to DSA: Learning from One Geek to Another" width="250px" align="left" /></a>
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="How People Around, Helped Me In My Bads!  | Thanks Giving"><strong>A Beginner's Guide to DSA: Learning from One Geek to Another</strong></a>
 <br/> Hey Readers! Are you ready to take your coding skills to the next level? Data structures and algorithms (DSA) may sound intimidating, but don't worry – they're not as scary as they seem! In fact, learning DSA is essential if you want to build software applications...</p> <br/> <br/>
 
 <p align=left> 
  <hr> 
--->
+
 
 
 # 📊 GitHub Stats:
