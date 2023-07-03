@@ -23,13 +23,13 @@
  <p align="left">
 <a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686167716731/28bf4144-c5e5-4c38-99cd-a0037bd6fd21.png" alt=" Everything You Need to Know About HTML: Master the Basics and Become a Pro" width="250px" align="left" /></a>
 <a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><strong>Everything You Need to Know About HTML: Master the Basics and Become a Pro</strong></a>
-<br/> Hey folks, in this blog, I have shared my experiences so far. I thought of writing it before but I wasn't sure if anyone would read it or maybe not interested in it. However, I realized that it doesn't really matter if others read it or not. I decided to document my journey for myself, so that in the future, if I ever...</p> <br> <br>
+<br/> Hey Reader, welcome to another blog that is about HTML. In this blog, we will look into not the basics of HTML but we will learn more about the advanced HTML tags, semantics, elements, etc. Whether you are a beginner or an intermediate or a person...</p> <br> <br>
 <p align=left> </p> 
 
   <p align="left">
 <a href="https://nehanupur.hashnode.dev/navigating-the-uncertainties-my-story-of-choosing-bca-over-engineering" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684491801903/789c1450-79d0-45d5-a925-1a0a695241f7.png" alt=" Navigating the Uncertainties: My Story of Choosing BCA over Engineering" width="250px" align="left" /></a>
 <a href="https://nehanupur.hashnode.dev/navigating-the-uncertainties-my-story-of-choosing-bca-over-engineering" title="Navigating the Uncertainties: My Story of Choosing BCA over Engineering"><strong>Navigating the Uncertainties: My Story of Choosing BCA over Engineering</strong></a>
-<br/> Hey Reader, welcome to another blog that is about HTML. In this blog, we will look into not the basics of HTML but we will learn more about the advanced HTML tags, semantics, elements, etc. Whether you are a beginner or an intermediate or a person...</p> <br/>
+<br/>  Hey folks, in this blog, I have shared my experiences so far. I thought of writing it before but I wasn't sure if anyone would read it or maybe not interested in it. However, I realized that it doesn't really matter if others read it or not. I decided to document my journey for myself, so that in the future, if I ever... </p> <br/>
 
 <p align=left> <br>
  <hr> 
