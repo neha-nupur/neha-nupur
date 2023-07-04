@@ -1,4 +1,4 @@
-![GitHub Cover photo](https://github.com/neha-nupur/neha-nupur/assets/110279038/e46aeef0-4edd-4856-b1ef-a13961b430b3)
+![GitHub Cover photo](https://github.com/neha-nupur/neha-nupur/assets/110279038/c0c17b54-8ee2-4584-afab-6bc388d31cf1)
 
 ## Hi Everyone! 👋
 
