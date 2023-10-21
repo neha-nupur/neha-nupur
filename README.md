@@ -3,7 +3,7 @@
 ## Hi Everyone! 👋
 
 # 💫 About Me:
-🙂 I'm Neha Nupur, a Bachelor of Computer Application student with a love for developing websites. I am also a skilled Technical Content Writer and Website Designer, combining my programming knowledge with my creativity to create engaging content and visually appealing designs.<br><br>🌱 I’m currently learning JavaScript and React.<br><br>
+🙂 I'm Neha Nupur, a BCA undergrad with a love for developing websites. I am also a skilled Technical Content Writer and Website Designer, combining my programming knowledge with my creativity to create engaging content and visually appealing designs.<br><br>🌱 I’m currently learning JavaScript and React.<br><br>
 
 ## 🌐 Connect With Me On Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehanupur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamnehanupur)  [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://nehanupur.hashnode.dev/) 
