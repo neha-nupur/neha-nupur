@@ -21,9 +21,9 @@
 <p align=left> <br>
 
  <p align="left">
-<a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686167716731/28bf4144-c5e5-4c38-99cd-a0037bd6fd21.png" alt=" Everything You Need to Know About HTML: Master the Basics and Become a Pro" width="250px" align="left" /></a>
-<a href="https://nehanupur.hashnode.dev/everything-you-need-to-know-about-html-master-the-basics-and-become-a-pro" title="Everything You Need to Know About HTML: Master the Basics and Become a Pro"><strong>Everything You Need to Know About HTML: Master the Basics and Become a Pro</strong></a>
-<br/> Hey Reader, welcome to another blog that is about HTML. In this blog, we will look into not the basics of HTML but we will learn more about the advanced HTML tags, semantics, elements, etc. Whether you are a beginner or an intermediate or a person...</p> <br> <br>
+<a href="https://nehanupur.hashnode.dev/mastering-javascript-fundamentals-a-comprehensive-guide" title="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695402395303/184726d7-2905-4ca0-8a44-b55765c50139.jpeg" alt="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)" width="250px" align="left" /></a>
+<a href="https://nehanupur.hashnode.dev/mastering-javascript-fundamentals-a-comprehensive-guide" title="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)"><strong>Mastering JavaScript Fundamentals: A Comprehensive Guide</strong></a>
+<br/> JavaScript is a high-level programming language that is widely used for web development. It is primarily used for adding interactivity and dynamic content to websites. JavaScript was created by...</p> <br> <br>
 <p align=left> </p> 
 
   <p align="left">
