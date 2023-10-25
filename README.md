@@ -5,6 +5,7 @@
 # 💫 About Me:
 🙂 I'm Neha Nupur, a BCA undergrad with a love for developing websites. I am also a skilled Technical Content Writer and Website Designer, combining my programming knowledge with my creativity to create engaging content and visually appealing designs.<br><br>🌱 I’m currently learning JavaScript and React.<br><br>
 
+## 📛 Holopin badges
 [![An image of @nehanupur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nehanupur)](https://holopin.io/@nehanupur)
 
 ## 🌐 Connect With Me On Socials:
