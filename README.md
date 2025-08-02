@@ -24,9 +24,9 @@
 <p align=left> <br>
 
  <p align="left">
-<a href="https://nehanupur.hashnode.dev/mastering-javascript-fundamentals-a-comprehensive-guide" title="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695402395303/184726d7-2905-4ca0-8a44-b55765c50139.jpeg" alt="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)" width="250px" align="left" /></a>
-<a href="https://nehanupur.hashnode.dev/mastering-javascript-fundamentals-a-comprehensive-guide" title="Mastering JavaScript Fundamentals: A Comprehensive Guide (Part 1)"><strong>Mastering JavaScript Fundamentals: A Comprehensive Guide</strong></a>
-<br/>Hey Readers! Welcome to my JavaScript blog! I'm excited to share my learning journey and experiences with this versatile programming language. Through this blog, I aim to provide valuable insights and tips that can assist you in your JavaScript endeavors. Whether you're a beginner or a seasoned developer, there's something for everyone here...</p> <br> <br>
+<a href="https://nehanupur.hashnode.dev/how-i-made-it-to-iiit-after-failing-once-my-nimcet-journey?source=more_articles_bottom_blogs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1754077091279/2a129ffe-b972-4736-9da6-bb8eba2df9ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" /></a>
+<a href="https://nehanupur.hashnode.dev/how-i-made-it-to-iiit-after-failing-once-my-nimcet-journey?source=more_articles_bottom_blogs" title="How I Made It to IIIT After Failing Once - My NIMCET Journey"><strong>How I Made It to IIIT After Failing Once - My NIMCET Journey></a>
+<br/>Hi folks, I hope you are doing well and working hard to achieve your dreams. In this blog, I am sharing my journey of NIMCET and getting my college. Maybe many of you don’t know much about me...</p> <br> <br>
 <p align=left> </p> 
 
   <p align="left">
