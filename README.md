@@ -7,7 +7,7 @@
 
 I'm a **Computer Science enthusiast and aspiring AI/ML engineer** who loves turning ideas into real, functional technology.
 
-I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Quantum Computing, Cybersecurity, and Software Engineering**. I'm particularly interested in building intelligent systems that don't just demonstrate an idea, but solve meaningful real-world problems.
+I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Quantum Computing, and Software Engineering**. I'm particularly interested in building intelligent systems that don't just demonstrate an idea, but solve meaningful real-world problems.
 
 🚀 Currently, I'm working on projects involving:
 
