@@ -2,42 +2,42 @@
 
 ## Hi Everyone! 👋
 
-# 💫 About Me:
-## 👋 I'm Neha Nupur
+# About Me:
+## I'm Neha Nupur
 
 I'm a **Computer Science enthusiast and aspiring AI/ML engineer** who loves turning ideas into real, functional technology.
 
 I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Quantum Computing, and Software Engineering**. I'm particularly interested in building intelligent systems that don't just demonstrate an idea, but solve meaningful real-world problems.
 
-🚀 Currently, I'm working on projects involving:
+ Currently, I'm working on projects involving:
 
-* 🤖 **AI/ML & Deep Learning**
-* 🛰️ **Satellite & Geospatial Intelligence**
-* ⚛️ **Quantum Machine Learning**
-* 🛡️ **Cybersecurity & AI Security**
-* 🌐 **Full-Stack & Backend Development**
-* 🧠 **Intelligent Decision-Making Systems**
+* **AI/ML & Deep Learning**
+* **Satellite & Geospatial Intelligence**
+* **Quantum Machine Learning**
+* **Cybersecurity & AI Security**
+* **Full-Stack & Backend Development**
+* **Intelligent Decision-Making Systems**
 
 I believe in **building, experimenting, breaking things, and learning by doing**. Rather than limiting myself to a single technology, I enjoy exploring different domains and bringing them together to create innovative solutions.
 
-### 🌱 What I'm Learning
+### What I'm Learning
 
 Continuously exploring **advanced AI architectures, computer vision, quantum computing, secure AI systems, distributed systems, and scalable software development**.
 
-### 🎯 My Goal
+### My Goal
 
 To become an engineer who can take a complex problem **from an idea → architecture → implementation → intelligent system**, while continuously pushing the boundaries of what technology can do.
 
 > **Build with curiosity. Learn relentlessly. Create beyond limits. 🚀**
 
 
-## 📛 Holopin badges
+## Holopin badges
 [![An image of @nehanupur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nehanupur)](https://holopin.io/@nehanupur)
 
-## 🌐 Connect With Me On Socials:
+## Connect With Me On Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehanupur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamnehanupur)  [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://nehanupur.hashnode.dev/) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
