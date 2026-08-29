@@ -3,7 +3,33 @@
 ## Hi Everyone! 👋
 
 # 💫 About Me:
-🙂 I'm Neha Nupur, pursuing MCA from IIIT Vadodara. I am a skilled Technical Content Writer and Website Designer, combining my programming knowledge with my creativity to create engaging content and visually appealing designs.<br><br>
+## 👋 I'm Neha Nupur
+
+I'm a **Computer Science enthusiast and aspiring AI/ML engineer** who loves turning ideas into real, functional technology.
+
+I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Quantum Computing, Cybersecurity, and Software Engineering**. I'm particularly interested in building intelligent systems that don't just demonstrate an idea, but solve meaningful real-world problems.
+
+🚀 Currently, I'm working on projects involving:
+
+* 🤖 **AI/ML & Deep Learning**
+* 🛰️ **Satellite & Geospatial Intelligence**
+* ⚛️ **Quantum Machine Learning**
+* 🛡️ **Cybersecurity & AI Security**
+* 🌐 **Full-Stack & Backend Development**
+* 🧠 **Intelligent Decision-Making Systems**
+
+I believe in **building, experimenting, breaking things, and learning by doing**. Rather than limiting myself to a single technology, I enjoy exploring different domains and bringing them together to create innovative solutions.
+
+### 🌱 What I'm Learning
+
+Continuously exploring **advanced AI architectures, computer vision, quantum computing, secure AI systems, distributed systems, and scalable software development**.
+
+### 🎯 My Goal
+
+To become an engineer who can take a complex problem **from an idea → architecture → implementation → intelligent system**, while continuously pushing the boundaries of what technology can do.
+
+> **Build with curiosity. Learn relentlessly. Create beyond limits. 🚀**
+
 
 ## 📛 Holopin badges
 [![An image of @nehanupur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nehanupur)](https://holopin.io/@nehanupur)
